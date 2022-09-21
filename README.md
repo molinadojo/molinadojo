@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @molinadojo (Pablo Molina) "MolinaDev"
-- 👀 I’m .NET Developer 
-- 👀 I’m interested in .NET and GO.
-- 🌱 I’m currently learning Golang, C# & Angular
-- 💞️ I’m looking to collaborate on .NET
+- 👀 I’m .GOLANG Developer 
+- 👀 I’m interested in Elixir and Golang.
+- 🌱 I’m currently learning Rust, Phoenix & React
+- 💞️ I’m looking to collaborate on Golang and Elixir
 - 📫 How to reach me pablo.molina@gmail.com
 
 <!---
