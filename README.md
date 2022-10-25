@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @molinadojo (Pablo Molina) "MolinaDev"
-- 👀 I’m .GOLANG Developer 
-- 👀 I’m interested in Elixir and Golang.
+- 👀 I’m GO, Python and Ruby Developer 
+- 👀 I’m interested in Elixir and Rust.
 - 🌱 I’m currently learning Rust, Phoenix & React
 - 💞️ I’m looking to collaborate on Golang and Elixir
 - 📫 How to reach me pablo.molina@gmail.com
