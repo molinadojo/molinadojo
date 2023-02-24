@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @molinadojo (Pablo Molina) "MolinaDojo"
-- 👀 I’m Go, PHP and Python Backend Developer
-- 👀 I’m interested in Ruby
-- 🌱 I’m currently learning Go, PHP and PYTHON    
-- 💞️ I’m looking to collaborate on Go, Python, Drupal(PHP)
+- 👋 Hi, I’m @molinadojo (Pablo Molina) "iTdePunta"
+- 👀 I’m Dart, Python and Ruby Developer
+- 👀 I’m interested in Go and C#
+- 🌱 I’m currently learning Dart, Go and PYTHON    
+- 💞️ I’m looking to collaborate on Flutter, Unity, Godot and VideoGames developer 
 - 📫 How to reach me pablo.molina@gmail.com
 
 <!---
