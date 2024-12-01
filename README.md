@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @molinadojo (Pablo Molina) "iTdePunta"
+- 👋 Hi, I’m @molinadojo (Pablo Molina) "PuntaCode"
 - 👀 I’m Dart, Python and Ruby Developer
-- 👀 I’m interested in Go and C#
+- 👀 I’m interested in Go, Cobol and C#
 - 🌱 I’m currently learning Dart, Go and PYTHON    
-- 💞️ I’m looking to collaborate on Flutter, Unity, Godot and VideoGames developer 
+- 💞️ I’m looking to collaborate on Flutter, Unity.  
 - 📫 How to reach me pablo.molina@gmail.com
 
 <!---
