@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @molinadojo (Pablo Molina) "PuntaCode"
 - 👀 I’m Backend Developer
-- 👀 I’m interested in Go, Python, Cobol and C#
+- 👀 I’m interested in Ruby, Go, Python, C# and Rust
 - 🌱 I’m currently learning Dart and Go     
-- 💞️ I’m looking to collaborate on Flutter, Unity.  
+- 💞️ I’m looking to collaborate on Ruby on Rails, Phoenix, Flutter, Unity, AI, Maui, Drupal  
 - 📫 How to reach me pablo.molina@gmail.com
 
 <!---
