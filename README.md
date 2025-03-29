@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @molinadojo (Pablo Molina) "Molinadojo PuntaCode"
-- 👀 I’m Fullstack Developer Mern, Flutter, Asp net core, Django
-- 👀 I’m interested in Js, Go, Python, C# and Dart
+- 👀 I’m Fullstack Developer Mern, Flutter, Asp net core, Videogame UNITY + UGAME
+- 👀 I’m interested in Go, SWIFT and RUST
 - 🌱 I’m currently learning Rust       
-- 💞️ I’m looking to collaborate on Ruby on Rails, Flutter, Unity, AI, Maui, Drupal, Asp Net core
+- 💞️ I’m looking to collaborate on Flutter, Unity, AI, MAUI, Drupal, Asp Net core and Wordpress Woocommerce
 - 📫 How to reach me pablo.molina@gmail.com
 
 <!---
